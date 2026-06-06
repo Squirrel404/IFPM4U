@@ -1,11 +1,5 @@
-# Unnecessary meta files
-*.txt.meta
-*.md.meta
-*.json.meta
-*.png.meta
-*.kra.meta
-*.gif.meta
-Images.meta
+*.meta
+!*.inputactions.meta
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #
