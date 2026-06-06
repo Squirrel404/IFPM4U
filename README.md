@@ -1,6 +1,8 @@
-## Features
+# Realistic First Person Movement for Unity
 
 Realistic First Person Movement for Unity (RFPM4U) consists of two scripts that make walking in a 3D game much more enjoyable and immersive. This is perfect for horror games or walking sims. Some of these features can be found in AAA games like Resident Evil.
+
+## Features
 
 * **Walk cycle dips**
   * These are dips in move speed when a foot hits the ground.
