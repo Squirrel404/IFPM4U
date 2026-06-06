@@ -1,0 +1,19 @@
+{
+    "name": "com.luis0413.rfpm4u",
+    "version": "1.0.0",
+    "displayName": "RFPM4U",
+    "description": "Realistic First Person Movement for Unity",
+    "dependencies": {
+        "com.dbrizov.naughtyattributes": "2.0.0",
+        "com.unity.cinemachine": "3.0.0",
+        "com.unity.inputsystem": "1.0.0"
+    },
+    "keywords": [
+        "Movement"
+    ],
+    "author": {
+        "name": "Luis0413",
+        "email": "luis0413games@proton.me",
+        "url": "https://github.com/Squirrel404/"
+    }
+}
