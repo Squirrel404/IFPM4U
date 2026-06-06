@@ -1,6 +1,6 @@
 ## Features
 
-Realistic First Person Movement for Unity (RFPM4U) consists of two scripts that make walking in a 3D game much more enjoyable. This is perfect for horror games or walking sims. Some of these features can be found in AAA games like Resident Evil.
+Realistic First Person Movement for Unity (RFPM4U) consists of two scripts that make walking in a 3D game much more enjoyable and immersive. This is perfect for horror games or walking sims. Some of these features can be found in AAA games like Resident Evil.
 
 * **Walk cycle dips**
   * These are dips in move speed when a foot hits the ground.
@@ -28,8 +28,9 @@ Realistic First Person Movement for Unity (RFPM4U) consists of two scripts that 
 
 ## Setup
 
-1. Import the package into your project (I recommend Package Manager > +-button > Install from git URL: https://github.com/Squirrel404/RFPM4U.git)
-2. Scene setup (prefab found in package folder):
+1. Install NaughtyAttributes https://github.com/dbrizov/NaughtyAttributes
+2. Import the package into your project (I recommend Package Manager > +-button > Install from git URL: https://github.com/Squirrel404/RFPM4U.git)
+3. Scene setup (prefab found in package folder):
 
 <img src="Images/scene_setup.png">
 

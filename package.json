@@ -1,10 +1,10 @@
 {
     "name": "com.luis0413.rfpm4u",
     "version": "1.0.0",
+    "unity": "2022.2.16f1",
     "displayName": "RFPM4U",
     "description": "Realistic First Person Movement for Unity",
     "dependencies": {
-        "com.dbrizov.naughtyattributes": "2.0.0",
         "com.unity.cinemachine": "3.0.0",
         "com.unity.inputsystem": "1.0.0"
     },

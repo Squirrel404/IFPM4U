@@ -45,7 +45,7 @@ public class PlayerController : MonoBehaviour
 
     [Header("Input")]
     Vector2 moveInput;
-    PlayerInput controls;
+    MovementInput controls;
     public bool Moving { get { return moveInput != Vector2.zero; } }
     Vector3 MoveDir
     {
@@ -59,7 +59,7 @@ public class PlayerController : MonoBehaviour
 
     void Awake()
     {
-        controls = new PlayerInput();
+        controls = new MovementInput();
 
         controls.Movement.Move.performed += ctx => Move(ctx.ReadValue<Vector2>());
         controls.Movement.Move.canceled += ctx => StopMoving();
