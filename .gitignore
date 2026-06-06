@@ -1,3 +1,12 @@
+# Unnecessary meta files
+*.txt.meta
+*.md.meta
+*.json.meta
+*.png.meta
+*.kra.meta
+*.gif.meta
+Images.meta
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
