@@ -29,8 +29,9 @@ Realistic First Person Movement for Unity (RFPM4U) consists of two scripts that 
 ## Setup
 
 1. Install NaughtyAttributes https://github.com/dbrizov/NaughtyAttributes
-2. Import the package into your project (I recommend Package Manager > +-button > Install from git URL: https://github.com/Squirrel404/RFPM4U.git)
-3. Scene setup (prefab found in package folder):
+2. Install Cinemachine (Package Manager -> Unity Registry)
+3. Import the package into your project (I recommend Package Manager > +-button > Install from git URL: https://github.com/Squirrel404/RFPM4U.git)
+4. Scene setup (prefab found in package folder):
 
 <img src="Images/scene_setup.png">
 
