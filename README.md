@@ -30,11 +30,11 @@ Realistic First Person Movement for Unity (RFPM4U) consists of two scripts that 
 
 1. [Install NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
 2. Install Cinemachine (Package Manager -> Unity Registry)
-3. Import the package into your project (I recommend Package Manager > +-button > Install from git URL: https://github.com/Squirrel404/RFPM4U.git)
-4. Scene setup (prefab found in package folder):
+3. [Download the latest realase](https://github.com/Squirrel404/RFPM4U/releases) and import it into your project
+4. Scene setup (prefab found in RFPM4U folder):
 
 <img src="Images/scene_setup.png">
 
-3. Insert player as tracking target on the Cinemachine Camera
+5. Insert the Viewpoint game object as tracking target on the Cinemachine Camera and press "Add Brain"
 
 To change the controls, open the MovementInput input actions.
