@@ -24,9 +24,9 @@ Realistic First Person Movement for Unity (RFPM4U) consists of two scripts that 
 * **SmoothDamp acceleration**
   * You don't immediately start moving at full speed.
 
-<img src="Images/sprinting.gif" alt="Sprinting preview"> <img src="Images/walking_zick_zack.gif" alt="Walking in zick-zack preview">
+https://github.com/user-attachments/assets/6ade41ad-9772-43fd-ab67-80dfb9c8ca30
 
-<small>(Ignore the odd scene setup)</small>
+https://github.com/user-attachments/assets/64de9c02-4761-4225-a7ae-9c4cb1d1583c
 
 ## Setup
 
