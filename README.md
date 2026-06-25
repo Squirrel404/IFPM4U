@@ -1,6 +1,6 @@
-# Realistic First Person Movement for Unity
+# Immersive First Person Movement for Unity
 
-Realistic First Person Movement for Unity (RFPM4U) consists of two scripts that make walking in a 3D game much more enjoyable and immersive. This is perfect for horror games or walking sims. Some of these features can be found in AAA games like Resident Evil.
+Immersive First Person Movement for Unity (IFPM4U) consists of two scripts for realistic feeling movement, making walking in a 3D game much more enjoyable and increasing immersion. This is perfect for horror games or walking sims. Some of these features can be found in AAA games like Resident Evil.
 
 ## Features
 
@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/64de9c02-4761-4225-a7ae-9c4cb1d1583c
 1. [Install NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
 2. Install Cinemachine (Package Manager -> Unity Registry)
 3. [Download the latest realase](https://github.com/Squirrel404/RFPM4U/releases) and import it into your project
-4. Scene setup (prefab found in RFPM4U folder):
+4. Scene setup (prefab found in IFPM4U folder):
 
 <img src="Images/scene_setup.png">
 
