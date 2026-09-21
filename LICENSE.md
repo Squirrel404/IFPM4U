@@ -1,4 +1,4 @@
-# Custom License
+# Custom Unity Package License
 
 Copyright © 2026 Squirrel404 aka Luis0413
 
