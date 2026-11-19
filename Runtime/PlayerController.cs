@@ -52,7 +52,7 @@ public class PlayerController : MonoBehaviour
 
     [Header("Input")]
     Vector2 moveInput;
-    public MovementInput controls;
+    [System.NonSerialized] public MovementInput controls;
     public bool Moving => moveInput != Vector2.zero;
     Vector3 MoveDir
     {
