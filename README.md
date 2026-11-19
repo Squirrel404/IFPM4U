@@ -31,10 +31,6 @@ Immersive First Person Movement for Unity (IFPM4U) consists of two scripts (and 
 * **CinemachineRotationOffset component**
   * No idea why Cinemachine doesn't have this.
 
-https://github.com/user-attachments/assets/6ade41ad-9772-43fd-ab67-80dfb9c8ca30
-
-https://github.com/user-attachments/assets/64de9c02-4761-4225-a7ae-9c4cb1d1583c
-
 ## Setup
 
 1. [Download and import NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
